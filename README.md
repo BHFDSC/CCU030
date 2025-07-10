@@ -19,6 +19,7 @@ We will investigate whether the complex health problems experienced by people li
 The issues outlined above will be addressed in outputs from a number of related sub-projects.  Follow the links below to view repositories containing the protocol, data curation and analysis code, and phenotyping algorithms and codelists for each sub-project:
 
 * [CCU030_01: Understanding covid-19 outcomes among people with intellectual disabilities in England](https://github.com/BHFDSC/CCU030_01)
+* [CCU030_02: A population-based cross-sectional investigation of COVID-19 hospitalizations and mortality among autistic people](https://github.com/BHFDSC/CCU030_02)
 
 > Links to repositories for additional outputs will follow in due course.
 
