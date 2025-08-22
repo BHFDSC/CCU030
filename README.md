@@ -20,8 +20,7 @@ The issues outlined above will be addressed in outputs from a number of related 
 
 * [CCU030_01: Understanding covid-19 outcomes among people with intellectual disabilities in England](https://github.com/BHFDSC/CCU030_01)
 * [CCU030_02: A population-based cross-sectional investigation of COVID-19 hospitalizations and mortality among autistic people](https://github.com/BHFDSC/CCU030_02)
-
-> Links to repositories for additional outputs will follow in due course.
+* [CCU030_03: Making a case for an autism-specific multimorbidity index: a comparative cohort study](https://github.com/BHFDSC/CCU030_03)
 
 ## Project approval
 
